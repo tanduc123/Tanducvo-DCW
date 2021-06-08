@@ -1,0 +1,168 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Sigmar One', cursive;
+}
+#outer{
+	width: 100%;
+	
+}
+.continer{
+	width: 100%;
+	margin: 0 auto;
+}
+.header{
+	width: 100%;
+	height: 60px;
+	padding: 20px 0;
+/*	background: #CDA5A6	;*/
+}
+.logo{
+	width: 30%;
+	float: left;
+	padding: 10px
+}
+.logo img{
+	width: 30%;
+}
+.logo:hover{
+	opacity: 0.6;
+} 
+.menu{
+	width:60%;
+	float: right;
+	display: inline-block;
+	float: right;
+}
+.menu ul{
+	list-style: none
+}
+.menu ul li{
+	display: inline-block;
+	line-height:80px;
+	margin: 0 20px;
+}
+.menu ul li a{
+	color: #000000;
+	font-weight: 600;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	opacity: 0.6;
+	text-decoration: underline;
+}
+.main1 img{
+	width: 90%;
+}
+.main1 img{
+	margin-right: 20px;
+	padding: 5px 80px 30px;
+}
+.textmain1 h1{
+	text-align: center;
+}
+.textmain1 h1:hover{
+	opacity: 0.6
+}
+.textmain1 img{
+	width: 90%;
+	padding: 20px 40px;
+}
+.left img{
+	width:45%;
+	height: 400px;
+	float: left;
+	margin: 0px 0px 0px 80px
+}
+.right img{
+	width: 45%;
+	height: 400px;
+
+}
+.text-box{
+	color: #000000;
+	font-weight: 600;
+	text-align: center;
+}
+.text-box:hover{
+	opacity: 0.6;
+	color: #F40206;
+}
+.text-box2 img{
+	width: 90%;
+	height: 600px;
+	
+}
+.text-box2 h1{
+	padding: 0 20px;
+}
+.text-box2 h1:hover{
+	opacity:0.6;
+}	
+
+.text1 h1 {
+	text-align: center
+}
+.text-box2 img{
+	margin-bottom: 20px;
+}
+.text3 h1{
+	margin-bottom: 20px;
+	padding: 0 20px;
+}
+.hinh1 img{
+	width: 90%;
+	height: 600px;
+	margin: 0px 0px 0px 80px;
+	margin-bottom: 20px;
+}
+.text4 img{
+	margin: 0 0 50px 50px;
+	overflow: hidden;;
+}
+.text4 h1{
+	margin-bottom:20px;
+	padding: 0 20px;
+}
+.text44 right1{
+	width: 100%;
+}
+.left1 img{
+	width: 45%;
+	height: 600px;
+	float: left;
+	padding: 0 5
+}
+.right1 img{
+	width: 45%;
+	height: 600px;
+}
+.foot1{
+	width: 100%;
+	height: 150px;
+	background: #000000
+}
+.lala{
+	width: 100%;
+	height: 150px;
+	background: #000000;
+}
+.lala h2{
+	font-size: 12px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding: 0 0 5px;
+}
+.lolo{
+	width: 100%;
+	height: 180px;
+	background: #000000; 
+}
+.lala h2:hover{ 
+	opacity: 0.6;
+}
